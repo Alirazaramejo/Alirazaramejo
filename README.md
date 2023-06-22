@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirazaramejo" alt="alirazaramejo" /></a> </p>
 
-- 🌱 I’m currently learning **React js, JavaScript, PHP framework ,and other framework**
+- 🌱 I’m currently learning **React js, JavaScript, PHP framework, and another framework**
 
-- 💬 Ask me about **JavaScript ,PHP ,HTML , CSS ,Bootstrap**
+- 💬 Ask me about **JavaScript, PHP, HTML, CSS, Bootstrap**
 
 - ⚡ Fun fact **LEARN PROGRAMMING IS MY FUN**
-
+📫 How to reach me **alirazakhan2540@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
