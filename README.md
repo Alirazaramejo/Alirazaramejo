@@ -68,14 +68,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirazaramejo&" alt="alirazaramejo" />
 </p>
 
-<style>
-  .icon {
-    transition: transform 0.3s, color 0.3s, opacity 0.3s;
-  }
-
-  .icon:hover {
-    transform: scale(1.2) rotate(20deg);
-    color: #ff5722;
-    opacity: 0.8;
-  }
-</style>
