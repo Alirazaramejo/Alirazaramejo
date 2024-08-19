@@ -3,21 +3,23 @@
 <h1 align="center">Hi 👋, I'm Ali Raza Ramejo</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
+<p align="center">
+  <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" alt="Coding" width="400"/>
+</p>
+
 <div align="center">
-  <img align="center" alt="Coding" width="400" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" />
+  <img src="https://komarev.com/ghpvc/?username=alirazaramejo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirazaramejo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alirazaramejo&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alirazaramejo&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=0E75B6&width=435&lines=Full+Stack+Developer;JavaScript+Lover;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</div>
 
 - 🌱 I’m currently expanding my knowledge in **React.js, JavaScript, and advanced frameworks**.
 - 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, and Full Stack Development**.
@@ -36,31 +38,31 @@
 <h3 align="center">🚀 Languages and Tools:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+    <img class="icon" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img class="icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+    <img class="icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
 
@@ -78,12 +80,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazaramejo&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
+---
+
 <style>
-  /* Add some animations */
-  .icon {
-    transition: transform 0.3s;
-  }
   .icon:hover {
     transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
   }
 </style>
