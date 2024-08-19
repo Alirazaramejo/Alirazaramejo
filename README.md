@@ -29,6 +29,7 @@
 - 🌱 I’m currently expanding my knowledge in **React.js, JavaScript, and advanced frameworks**.
 - 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, and Full Stack Development**.
 - 📫 Reach me at **[alirazakhan2540@gmail.com](mailto:alirazakhan2540@gmail.com)**.
+- 📱 You can also connect with me on **[WhatsApp](https://wa.me/03012140811)**.
 - ⚡ Fun fact: **I find learning programming both challenging and fun!**
 
 ---
@@ -100,4 +101,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=alirazaramejo&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
-
